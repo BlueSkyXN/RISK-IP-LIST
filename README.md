@@ -4,3 +4,5 @@
 [长亭社区恶意 IP 情报](./chaitin.txt)
 
 [SKY-BAN-IP](./SKY-BAN-IP.txt)
+
+[SKY-RISK-IP](./SKY-RISK-IP.txt)
